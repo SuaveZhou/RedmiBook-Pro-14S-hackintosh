@@ -1,5 +1,11 @@
 # macOS on RedmiBook Pro 14S (WIP)
 
+## News
+
+The trackpad is now driven in interrupt mode.
+
+The microphone needs to be downloaded[AMDMicrophone](https://github.com/qhuyduong/AMDMicrophone)For specific use, please check the archive in the warehouse.
+
 ## Fix
 
 Fixed cold boot black screen issue.
@@ -26,7 +32,7 @@ Audio       | Realtek High Definition Audio
 
 ## macOS Update History
 
-- ✅ macOS BigSur 11.7.7
+- ✅ macOS BigSur 11.7.7（To install this version, you need to manually download the BigSur version of the NIC driver）
 - ✅ macOS Ventura
 
 ## What's working
@@ -40,15 +46,15 @@ Audio | ✅
 Intel Wi-Fi | ✅
 Battery Status | ✅
 Shutdown / Reboot |✅
+Bluetooth |✅
+Microphone |✅
 
 ## What's not working
 
 Type | Info | Status
 :---------|:---------|:----------
 USB | At the moment we need to disable one of the two USB controllers, so the ports connected to it will NOT work even in other OSes, until the setting is reverted in UMAF. | ⚠️
-Bluetooth | Same as USB | ⚠️
 Sleep | PowerPlay panic on wake, still investigating | ⚠️
-Microphone | It is not working for AMD, even desktops | ⚠️
 
 ## Instructions
 
