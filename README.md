@@ -60,9 +60,9 @@ Sleep | PowerPlay panic on wake, still investigating | ⚠️
 
 ### Pre-Installation
 
-#### Disabling XHC1 (credit to [ExtremeXT](https://github.com/ExtremeXT))
+#### Disabling XHCI1
 
-https://github.com/ExtremeXT/Lenovo_Legion_5_Hackintosh#disabling-xhc1
+https://github.com/DavidS95/Smokeless_UMAF
 
 ## Notes
 
