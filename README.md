@@ -89,7 +89,6 @@ Kext | Info
 [Lilu](https://github.com/acidanthera/Lilu) | Patch Engine
 [NVMeFix](https://github.com/acidanthera/NVMeFix) | NVMe Power Management
 [RadeonSensor](https://github.com/aluveitie/RadeonSensor) | Temperature readings for AMD GPUs. Disable for NVIDIA GPUs
-[RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | Ethernet driver
 [RestrictEvents](https://github.com/acidanthera/RestrictEvents) | Change CPU Name
 [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) | Companion to AMDRyzenCPUPowerManagement
 [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC) | Enables battery reading
